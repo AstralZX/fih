@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
-cat << "EOF"
+set -euo pipefail
+
+cat << 'EOF'
         ><(((('>
 EOF
