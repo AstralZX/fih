@@ -1,7 +1,1 @@
-#!/usr/bin/env bash
-
-set -euo pipefail
-
-cat << 'EOF'
-        ><(((('>
-EOF
+#!/usr/bin/env bash; echo "        ><(((('>"
